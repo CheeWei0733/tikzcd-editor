@@ -82,7 +82,6 @@ a, img {
 .grid-cell {
     position: relative;
     display: grid;
-    border: 2px dashed #ccc;
     border-top: none;
     border-left: none;
     overflow: hidden;
